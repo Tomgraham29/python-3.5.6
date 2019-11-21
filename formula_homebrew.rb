@@ -1,7 +1,7 @@
 class Python < Formula
   desc "Interpreted, interactive, object-oriented programming language"
   homepage "https://www.python.org/"
-  url https://www.python.org/ftp/python/3.5.6/Python-3.5.6.tgz
+  url "https://www.python.org/ftp/python/3.5.6/Python-3.5.6.tgz"
   sha256 "e85a76ea9f3d6c485ec1780fca4e500725a4a7bbc63c78ebc44170de9b619d94"
   head "https://github.com/python/cpython.git"
 
